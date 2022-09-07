@@ -202,7 +202,7 @@ The symposium is organized within the ['Sensation and Perception to Awareness: L
 <img src="images/Federico-modified.png" alt="drawing" style="width:200px;height:200px;float:left; padding-right:20px; text-align:justify; padding-bottom: 30px;"/>
 Federico is a PhD student at the University of Sussex, working under the superivsion of Dr. Peter Lush, Prof. Warrick Roseboom and Prof. Anil Seth. His interests span all over consciousness science. In his project, he's working on the cognitive penetrability of perception thesis, using insights from experimental hypnosis research to answer outstanding questions on the origin and nature of perceptual illusions. 
 
-[Twitter](http://twitter.com/miguelo93)
+[Twitter](http://twitter.com/mighelo93)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 

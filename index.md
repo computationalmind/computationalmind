@@ -1,7 +1,7 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Mind</span>
 ### Fundamental Challenges and Future Perspectives
-### One-day Online Symposium
-### 21st OCTOBER 2022
+#### One-day Online Symposium
+#### 21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
 {: style="text-align: center;"}
@@ -9,7 +9,7 @@
 
 [Schedule](#schedule) - [Speakers](#speakers) - [Organizers](#organizers)
 {: style="text-align: center;"}
-This **one-day online event** will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, and computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
+This **one-day online event** will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, as well as computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
@@ -20,7 +20,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 If you have any question regarding the symposium, please feel free to write us at: [computational.mind@proton.me](mailto:computational.mind@proton.me)
 
-If you're interested in the symposium, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get the ZOOM link the day of the event.
+If you're interested in the symposium, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get a Zoom link for the day of the event.
 ## <span style="color:#2C1320">Schedule</span>
 
 <table class="tablelines">

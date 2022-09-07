@@ -119,7 +119,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 
 **Talk title: TBA** 
 
-**Time:** 3:00pm GMT +1
+**Time:** 3:00pm UTC +1
 
 <p ><strong>Abstract: TBA</strong>
 </p>
@@ -137,7 +137,7 @@ Gaël Varoquaux is the Research Director of soda at Inria (National Institute fo
 
 **Talk title:** Causality in the brain
 
-**Time:** 4:00pm GMT +1
+**Time:** 4:00pm UTC +1
 
 <p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
 </p>
@@ -156,7 +156,7 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 
 **Talk title: TBA** 
 
-**Time:** 4:30pm GMT +1
+**Time:** 4:30pm UTC +1
 
 <p ><strong>Abstract: TBA</strong> 
 </p>
@@ -174,7 +174,7 @@ Jessica Flack is a professor at Sante Fe Institute, New Mexico, where she runs t
 
 **Talk title:** Why AI is Harder Than We Think
 
-**Time:** 5:00pm GMT +1
+**Time:** 5:00pm UTC +1
 
 <p ><strong>Abstract:</strong> Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment (“AI Spring”) and periods of disappointment, loss of confidence, and reduced funding (“AI Winter”). Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected.
 One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.</p>

@@ -1,7 +1,7 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Mind</span>
 ### Fundamental Challenges and Future Perspectives
-#### <span  text-align: center">One-day Online Symposium</span>
-#### <span  text-align: center">21st OCTOBER 2022</span>
+#### One-day Online Symposium
+#### 21st OCTOBER 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
 {: style="text-align: center;"}

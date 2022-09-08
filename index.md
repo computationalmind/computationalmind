@@ -45,7 +45,7 @@ If you're interested in the symposium, remember to [register here](https://forms
     <tr>
       <td style="text-align: center">3:00-3:30pm</td>
       <td style="text-align: center">Gael Varoquax</td>
-      <td style="text-align: center"><a href="#gaël-varoquaux-hehim">TBA</a></td>
+      <td style="text-align: center"><a href="#gaël-varoquaux-hehim">Model predictions advance science more than modeling ingredients</a></td>
     </tr>
     <tr>
       <td style="text-align: center">3:30-4:00pm</td>
@@ -59,7 +59,7 @@ If you're interested in the symposium, remember to [register here](https://forms
     <tr>
       <td style="text-align: center">4:30:5:00pm</td>
       <td style="text-align: center">Jessica Flack</td>
-      <td style="text-align: center"><a href="#jessica-flack-sheher">TBA</a></td>
+      <td style="text-align: center"><a href="#jessica-flack-sheher">Collective Computation in Nature</a></td>
     </tr>
     <tr>
       <td style="text-align: center">5:00-5:30pm</td>

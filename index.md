@@ -1,7 +1,7 @@
 # <span style="color:#2C1320">Rethinking Computational Approaches to the Mind</span>
 ### Fundamental Challenges and Future Perspectives
 #### One-day Online Symposium
-#### 21st OCTOBER 2022
+#### 21st October 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
 {: style="text-align: center;"}
@@ -117,11 +117,13 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 ### <span style="color:#5F4B66; text-align: center">Gaël Varoquaux (He/Him)</span>
 <img src="images/GaelVaroquaux-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
-**Talk title: TBA** 
+**Talk title:** Model predictions advance science more than modeling ingredients
 
 **Time:** 3:00pm UTC +1
 
-<p ><strong>Abstract: TBA</strong>
+<p ><strong>Abstract:</strong> Brain sciences are in a difficult position: there is a profusion of theories, an increasing amount of data on brain and behavior, and yet no emerging framework to link them.
+One roadblock to how we integrate empirical evidence in scientific theories is that we fit models to data, assuming that these models are correct, and then reason on their ingredients. This methodology can easily lead to circular reasoning. It also encourages idealized experiments on well-controlled instantiations of theoretical constructs, such as mental processes, leading to models with little external validity: no ability to conclude on observations outside the given experimental paradigm.
+I believe that, for the time being, we need to put less focus on idealized models and strong claims on mental constructs, their validity and organization. Rather, we should focus on models that generalize across many experimental settings, and criticize models more on their predictions than on their ingredients. This agenda has been growing with the use of machine-learning in neuroscience and can lead to more robust empirical evidence. The way forward may lie more on direct fits to behaviour rather than dissociated mental categories, though it requires putting aside short-term promises of a tidy and aesthetic model of brain function.
 </p>
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
@@ -144,7 +146,7 @@ Gaël Varoquaux is the Research Director of soda at Inria (National Institute fo
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
+Dr. Kording is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project
 </details>
 
 [Personal Website](http://koerding.com/) - [Twitter](https://twitter.com/KordingLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - [Google Scholar](https://scholar.google.com/citations?user=MiFqJGcAAAAJ&hl=en) - [GitHub](https://github.com/KordingLab)
@@ -154,16 +156,16 @@ Dr. Kording (He/Him) is trying to understand how the world and in particular the
 <img src="images/JessicaFlack-modified.png" alt="drawing" class="center-image" style="width:200px;height:200px;"/>
 
 
-**Talk title: TBA** 
+**Talk title:** Collective Computation in Nature 
 
 **Time:** 4:30pm UTC +1
 
-<p ><strong>Abstract: TBA</strong> 
+<p ><strong>Abstract:</strong> Jessica Flack will discuss how error and subjectivity in information processing and the universal collective property of biological systems shape the foundations of computation and micro-macro relations in nature. Flack will introduce three concepts she and her collaborators have been developing: collective coarse-graining as a downward causation mechanism, hourglass emergence, and the information theoretic concept of channel switching. 
 </p>
 <details style="text-align: justify;font-size: 20px;">
 <summary style="font-size: 20px;">Bio</summary>
 <br>
-Jessica Flack is a professor at Sante Fe Institute, New Mexico, where she runs the Collective Computation Group. Her research uses evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems and theoretical computer science to study the roles of information processing and collective computation in the emergence of robust structure and function in adaptive systems.
+Jessica Flack is a professor at the Santa Fe Institute, Director of SFI's Collective Computation Group and a Chief Editor at Collective Intelligence. Flack considers herself to be a computational Platonist who is interested in the foundations of computation in nature, the origins of biological space and timescales, and micro-macro maps in information processing systems. Flack works across levels of biological organization from cells to populations of neurons to animal societies to markets. Goals of Flack’s research are to discover the computational principles that allow ::nature to overcome subjectivity due to noisy information processing, reduce uncertainty, and compute robust, ordered states. Central ideas include 1) complexity begets complexity (it’s complexity all the way down), 2) noisy information processors compute their macroscopic worlds through collective coarse-graining in evolutionary and/or learning time, 3) collective coarse-graining gives rise to effective downward causation, and facilitates the consolidation of new organizational scales, and 4) emergence is an hourglass process in which compression of microscale complexity produces an information bottleneck and subsequent macroscopic expansion. This work draws on evolutionary theory, cognitive neuroscience and behavior, statistical mechanics, information theory, dynamical systems, and theoretical computer science for concepts and methods, and also involves re-thinking first principles thinking for information processing systems.
 </details>
 
 [Personal Website](https://c4.santafe.edu/people/c4Jessica/) - [Twitter](https://twitter.com/c4computation?lang=en) 

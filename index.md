@@ -44,7 +44,7 @@ If you're interested in the symposium, remember to [register here](https://forms
     </tr>
     <tr>
       <td style="text-align: center">3:00-3:30pm</td>
-      <td style="text-align: center">Gael Varoquax</td>
+      <td style="text-align: center">Gaël Varoquax</td>
       <td style="text-align: center"><a href="#gaël-varoquaux-hehim">Model predictions advance science more than modeling ingredients</a></td>
     </tr>
     <tr>

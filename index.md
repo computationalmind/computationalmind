@@ -20,7 +20,7 @@ The event is organized within the "Sensation and Perception to Awareness: Leverh
 
 If you have any question regarding the symposium, please feel free to write us at: [computational.mind@proton.me](mailto:computational.mind@proton.me)
 
-If you're interested in the symposium, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get a Zoom link for the day of the event.
+The symposium is open to everyone. If you're interested in it, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get a Zoom link for the day of the event.
 ## <span style="color:#2C1320">Schedule</span>
 
 <table class="tablelines">

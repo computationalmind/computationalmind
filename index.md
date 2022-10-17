@@ -22,6 +22,9 @@ If you have any question regarding the symposium, please feel free to write us a
 
 The symposium is open to everyone. If you're interested in it, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get a Zoom link for the day of the event. We will record all talks throughout the symposium (including the panel discussion) and make presentation slides available after the event on this website.
 
+All attendees and speakers at the symposium are required to agree with the [code of conduct](https://docs.google.com/document/d/1VuHjydWsZ5eoN9B6H1PKIGuBqlGwv2b83_CwSupcMK0).
+
+
 ## <span style="color:#2C1320">Schedule</span>
 
 <table class="tablelines">

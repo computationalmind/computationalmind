@@ -9,20 +9,20 @@
 
 [Schedule](#schedule) - [Speakers](#speakers) - [Organizers](#organizers)
 {: style="text-align: center;"}
-This **one-day online event** will bring together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, as well as computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
+This **one-day online event** brought together researchers with expertise in various areas such as complexity science, machine learning & artificial intelligence, information theory & data science, as well as computational/theoretical neuroscience & philosophy to explore different computational approaches in the study of the "mind" (in brains and/or machines): 
 
 1. What are those approaches essentially about? 
 2. What are major benefits & caveats? 
 3. Do different approaches speak to, complement, or contradict each other? 
 4. What are the current challenges in computational approaches to understand the mind, and what could bring progress?
 
-The event is organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and will comprise a set of talks followed by a panel discussion (see [schedule](#schedule)).
+The event was organized within the "Sensation and Perception to Awareness: Leverhulme Doctoral Scholarship Programme" at the Univeristy of Sussex (find more info [here](#organizers)), and comprised a set of talks followed by a panel discussion (see [schedule](#schedule)).
 
 If you have any question regarding the symposium, please feel free to write us at: [computational.mind@proton.me](mailto:computational.mind@proton.me)
 
-The symposium is open to everyone. If you're interested in it, remember to [register here](https://forms.gle/MnhZZwp8RRrwHFkf7), in order to get a Zoom link for the day of the event. We will record all talks throughout the symposium (including the panel discussion) and make presentation slides available after the event on this website.
-
 All attendees and speakers at the symposium are required to agree with the [code of conduct](https://docs.google.com/document/d/1VuHjydWsZ5eoN9B6H1PKIGuBqlGwv2b83_CwSupcMK0).
+
+All the talks are available on YouTube [here](https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu).
 
 
 ## <span style="color:#2C1320">Schedule</span>

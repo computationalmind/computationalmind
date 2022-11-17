@@ -87,7 +87,7 @@ All the talks are available on YouTube [here](https://www.youtube.com/playlist?l
 
 **Talk title:** Enabling tools to model information processing in complex systems
 
-**Time:** 2:00pm UTC +1
+**Slides:** [Download](https://github.com/computationalmind/computationalmind.github.io/blob/main/Lizier_EnablingToolsToModelInfoProcessingInBrains.pdf)
 
 <p ><strong>Abstract:</strong> The space-time dynamics of interactions in complex systems are often described using terminology of information processing, or distributed computation, in particular with reference to information being stored, transferred and modified in these systems. In this talk, I will introduce an information-theoretic framework -- information dynamics -- that we use to model each of these operations on information within a complex system, and their dynamics in space and time. Not only does this framework quantitatively align with natural qualitative descriptions of information processing in neural and other systems, it provides multiple complementary perspectives on how, where and why a system is exhibiting complexity. Specifically, I will describe tools we have produced to enable quantitative analysis of such information processing, including both theoretical advances (such as how to measure information flows between spike trains) and software toolkits (including JIDT and IDTxl). I will focus specifically on the interaction between theory, enabling tools and applications, and how we have addressed methodological challenges at their intersection.</p>
 
@@ -106,7 +106,7 @@ Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Compu
 
 **Talk title:** Computation in the brain
 
-**Time:** 2:30pm UTC +1
+**Slides:** [Download](https://github.com/computationalmind/computationalmind.github.io/blob/main/Romain_ComputationInTheBrain.pdf)
 
 <p><strong>Abstract:</strong>  It is often taken for granted that brains compute over neural representations. Traditionally, this means that properties of neural activity play the role of variables in correspondence with properties of things in the world, while brain processes play the role of algorithms that manipulate those variables. This claim is based on implicit assumptions, which require closer examination. The first one is that all behavior is computational. To the extent that “computational” is meaningful, this is false. The second one is neural reductionism: the idea that alleged psychological units (such as the percept of a face) must correspond to neurophysiological units (activity of specific neurons or groups of neurons), rather than to a mode of activity of the brain. The third one is that neural representations correspond to neurophysiological states, which can then be governed by computational processes. But neural representations are not brain states: they are experimental measurements of firing rates over an extended period after a presented stimulus; that is, they are already properties of brain processes. This confusion undermines the coherence of neurocomputationalism.</p>
 <details style="text-align: justify;font-size: 20px;">
@@ -123,7 +123,7 @@ Romain Brette is a theoretical neuroscientist in Paris who has worked in cellula
 
 **Talk title:** Model predictions advance science more than modeling ingredients
 
-**Time:** 3:00pm UTC +1
+**Slides:** [Download](https://github.com/computationalmind/computationalmind.github.io/raw/main/Varoquaux_ModelPredictionsAdvanceScience.pdf)
 
 <p ><strong>Abstract:</strong> Brain sciences are in a difficult position: there is a profusion of theories, an increasing amount of data on brain and behavior, and yet no emerging framework to link them.
 One roadblock to how we integrate empirical evidence in scientific theories is that we fit models to data, assuming that these models are correct, and then reason on their ingredients. This methodology can easily lead to circular reasoning. It also encourages idealized experiments on well-controlled instantiations of theoretical constructs, such as mental processes, leading to models with little external validity: no ability to conclude on observations outside the given experimental paradigm.
@@ -143,7 +143,7 @@ Gaël Varoquaux is the Research Director of soda at Inria (National Institute fo
 
 **Talk title:** Causality in the brain
 
-**Time:** 4:00pm UTC +1
+**Sldies:** [Download](https://github.com/computationalmind/computationalmind.github.io/raw/main/Kording_CausalityInTheBrain.pdf)
 
 <p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
 </p>
@@ -162,7 +162,6 @@ Dr. Kording is trying to understand how the world and in particular the brain wo
 
 **Talk title:** Collective Computation in Nature 
 
-**Time:** 4:30pm UTC +1
 
 <p ><strong>Abstract:</strong> Jessica Flack will discuss how error and subjectivity in information processing and the universal collective property of biological systems shape the foundations of computation and micro-macro relations in nature. Flack will introduce three concepts she and her collaborators have been developing: collective coarse-graining as a downward causation mechanism, hourglass emergence, and the information theoretic concept of channel switching. 
 </p>
@@ -180,7 +179,7 @@ Jessica Flack is a professor at the Santa Fe Institute, Director of SFI's Collec
 
 **Talk title:** Why AI is Harder Than We Think
 
-**Time:** 5:00pm UTC +1
+**Slides:** [Download](https://raw.githubusercontent.com/computationalmind/computationalmind.github.io/main/Mitchell_WhyAIIsHarderThanWeThink.pdf)
 
 <p ><strong>Abstract:</strong> Since its beginning in the 1950s, the field of artificial intelligence has cycled several times between periods of optimistic predictions and massive investment (“AI Spring”) and periods of disappointment, loss of confidence, and reduced funding (“AI Winter”). Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected.
 One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.  In this talk I will discuss some fallacies in common assumptions made by AI researchers, which can lead to overconfident predictions about the field. I will also speculate on what kinds of new ideas and new science will be needed for the grand challenge of making AI systems more robust, general, and adaptable—in short, more intelligent.</p>

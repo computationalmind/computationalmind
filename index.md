@@ -143,7 +143,7 @@ Gaël Varoquaux is the Research Director of soda at Inria (National Institute fo
 
 **Talk title:** Causality in the brain
 
-**Sldies:** [Download](https://github.com/computationalmind/computationalmind.github.io/raw/main/Kording_CausalityInTheBrain.pdf)
+**Slides:** [Download](https://github.com/computationalmind/computationalmind.github.io/raw/main/Kording_CausalityInTheBrain.pdf)
 
 <p ><strong>Abstract:</strong> Konrad Kording will introduce the conceptual role that causation plays in most neuroscientists ways of thinking about the brain – both in the context of medical applications and in the context of basic research. He will contrast this conceptual role with the limitations of scientists to experimentally get at causality. Perturbation, the one methods that does allow reliably establishing causality does not scale to high dimensions. This makes understanding a complex system with many interacting parts highly problematic. He will end with an overview of coming approaches, in particular connectomics, that may change the current status quo in neural causality research.
 </p>

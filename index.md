@@ -3,7 +3,7 @@
 #### One-day Online Symposium
 #### 21st October 2022
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://forms.gle/MnhZZwp8RRrwHFkf7"><strong style="color: #D00F0F">**REGISTER HERE**</strong></a></span>
+#### <span style="color:red; text-align: center"><a stlye="color:red;" href = "https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu"><strong style="color: #D00F0F">**FIND RECORDINGS ON YOUTUBE HERE**</strong></a></span>
 {: style="text-align: center;"}
 ![Logo](images/logo1-modified.png){: .center-image}
 
@@ -20,9 +20,9 @@ The event was organized within the "Sensation and Perception to Awareness: Lever
 
 If you have any question regarding the symposium, please feel free to write us at: [computational.mind@proton.me](mailto:computational.mind@proton.me)
 
-All attendees and speakers at the symposium are required to agree with the [code of conduct](https://docs.google.com/document/d/1VuHjydWsZ5eoN9B6H1PKIGuBqlGwv2b83_CwSupcMK0).
+All attendees and speakers at the symposium were required to agree with the [code of conduct](https://docs.google.com/document/d/1VuHjydWsZ5eoN9B6H1PKIGuBqlGwv2b83_CwSupcMK0).
 
-All the talks are available on YouTube [here](https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu).
+<span style="color:red; text-align: center"><a stlye="color:red;" href = "https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu"><strong style="color: #D00F0F">**All talks, including the panel discussion, are available on YouTube here**</strong></a></span>.
 
 
 ## <span style="color:#2C1320">Schedule</span>

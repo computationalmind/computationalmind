@@ -1,0 +1,1 @@
+This repository builds a website for a one-day online event on **Rethinking Computational Approaches to the Mind - Fundamental Challenges and Future Perspectives** which has taken place on October 21st 2022. See the website [here](https://computationalmind.github.io/) to get more info about the event.

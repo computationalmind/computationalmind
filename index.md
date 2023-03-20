@@ -22,7 +22,7 @@ If you have any question regarding the symposium, please feel free to write us a
 
 All attendees and speakers at the symposium were required to agree with the [code of conduct](https://docs.google.com/document/d/1VuHjydWsZ5eoN9B6H1PKIGuBqlGwv2b83_CwSupcMK0).
 
-<span style="color:red; text-align: center"><a stlye="color:red;" href = "https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu"><strong style="color: #D00F0F">**All talks, including the panel discussion, are available on YouTube here**</strong></a></span>. Find links to presentation slides below the talk titles.
+<span style="color:red; text-align: center"><a stlye="color:red;"><strong style="color: #D00F0F">**All talks, including the panel discussion, are available on YouTube**</strong></a></span><span style="color:red; text-align: center"><a stlye="color:red;" href = "https://www.youtube.com/playlist?list=PLoIPNxWj9puhD9kCjnvOEWdY_jVPhcWJu"><strong style="color: #D00F0F">**HERE**</strong></a></span>. Find links to presentation slides below the talk titles.
 
 
 ## <span style="color:#2C1320">Schedule</span>
